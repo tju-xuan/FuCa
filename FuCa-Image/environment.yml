@@ -1,0 +1,21 @@
+name: cache-the-future
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - torch>=2.7
+      - torchvision
+      - diffusers>=0.37.0
+      - transformers
+      - accelerate
+      - numpy
+      - Pillow
+      - sentencepiece
+      - protobuf
+      - safetensors
+      - tqdm

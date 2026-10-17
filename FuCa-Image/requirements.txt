@@ -1,0 +1,8 @@
+# FuCa uses separate environments for the two backbones because their
+# Torch/CUDA stacks differ.
+#
+# FLUX.1-dev:
+#   pip install -r requirements-flux.txt
+#
+# Qwen-Image:
+#   pip install -r requirements-qwen.txt
