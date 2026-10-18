@@ -3,7 +3,6 @@
 # [NeurIPS 2026] *FuCa*: Cache the Future: Training-Free Self-Revision for Diffusion Transformer Acceleration
 
 <p>
-  <img src="https://img.shields.io/badge/arXiv-None-red" alt="arXiv: None">
   <a href="https://neurips.cc/virtual/2026/poster/149314"><img src="https://img.shields.io/badge/Paper-NeurIPS%202026-blue" alt="NeurIPS 2026 paper"></a>
 </p>
 
