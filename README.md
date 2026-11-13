@@ -86,13 +86,3 @@ export QWEN_IMAGE_MODEL_PATH=<qwen_image_model_path>
 ## 👍 Acknowledgements
 
 We thank the teams behind [FLUX](https://github.com/black-forest-labs/flux), [Qwen-Image](https://github.com/QwenLM/Qwen-Image), [Wan2.1](https://github.com/Wan-Video/Wan2.1), and [HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) for sharing their models and code with the community.
-
-## 🤝 Contributing
-
-Please keep changes scoped to the relevant subproject:
-
-- image-generation code under `FuCa-Image/`
-- shared public documentation in this top-level `README.md`
-
-Do not commit model checkpoints, upstream cloned repositories, generated media, metrics outputs, or temporary experiment folders.
-
